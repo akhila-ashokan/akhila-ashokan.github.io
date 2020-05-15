@@ -1,3 +1,7 @@
+layout: page
+title: "Education"
+permalink: /education/
+
 # Education 
 
 ## Vanderbilt University, Bachelor of Science in Computer Science
