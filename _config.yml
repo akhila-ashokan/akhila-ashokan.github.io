@@ -1,3 +1,16 @@
+# SITE CONFIGURATION
+baseurl: "/home"
+url: "https://akhila-ashokan.github.io"
+
+# THEME-SPECIFIC CONFIGURATION
+title: Akhila Ashokan                                   # site's title
+description: "My professional website"                  # used by search engines
+# avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+# favicon: assets/favicon.ico                             # Icon displayed in the tab
+
+# Header and footer text
+header_text: Akhila Ashokan  # Change Blog header text
+
 theme: jekyll-theme-cayman
 
 
