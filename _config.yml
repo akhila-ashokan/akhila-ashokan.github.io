@@ -11,8 +11,8 @@ description: "My professional website"                  # used by search engines
 # Header and footer text
 header_text: Akhila Ashokan  # Change Blog header text
 
-theme: jekyll-theme-cayman
-
+# theme: jekyll-theme-cayman
+remote_theme: sylhare/Type-on-Strap 
 
 
 
