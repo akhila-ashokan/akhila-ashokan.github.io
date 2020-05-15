@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/home"
-url: "https://akhila-ashokan.github.io"
+baseurl: "/"
+url: "https://akhila-ashokan.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Akhila Ashokan                                   # site's title
@@ -12,5 +12,7 @@ description: "My professional website"                  # used by search engines
 header_text: Akhila Ashokan  # Change Blog header text
 
 theme: jekyll-theme-cayman
+
+
 
 
