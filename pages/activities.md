@@ -4,8 +4,6 @@ title: "Activities"
 permalink: /activities.html
 ---
 
-# Leadership and Volunteer Activities 
-
 * Site Facilitator at Studio NPL, Girls Who Code (2019 – Present)
 
 * Alumni Coordinator, Sri Ganesha Temple (2015 – Present)

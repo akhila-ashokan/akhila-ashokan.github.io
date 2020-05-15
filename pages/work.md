@@ -2,9 +2,7 @@
 layout: page
 title: "Work Experience"
 permalink: /workexperience.html
----
-
-# Work Experience 
+--- 
 
 ## Data Analyst, GEODIS
 

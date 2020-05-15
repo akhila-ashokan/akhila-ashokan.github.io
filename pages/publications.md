@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications.html
 ---
 
-# Publications
-
 * A. Ashokan, V. L. Morgan*, Vanderbilt University, TN “Resting Function Connectivity Across a Language Network
 Not Related to Task Based Language Laterality Index”, The International Society for Magnetic Resonance in Medicine
 (ISMRM), ISMRM-ESMRMB, Paris, June 2018

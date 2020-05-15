@@ -2,9 +2,7 @@
 layout: page
 title: "Projects"
 permalink: /projects.html
----
-
-# Independent Projects  
+---  
 
 ## Machine Learning and Deep Learning Models to Predict Stroke Risk                                                        
 

@@ -5,8 +5,6 @@ permalink: /education.html
 hide: true
 ---
 
-# Education 
-
 ## Vanderbilt University, Bachelor of Science in Computer Science
 
 Dean’s List, Spring 2019
