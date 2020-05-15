@@ -9,7 +9,8 @@ description: "My professional website"                  # used by search engines
 # favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Akhila Ashokan  # Change Blog header text
+header_text: Welcome to my professional webpage!  # Change Blog header text
+header_feature_image: assets/img/pexels/sunflower.jpg
 
 # theme: jekyll-theme-cayman
 remote_theme: sylhare/Type-on-Strap 

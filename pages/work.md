@@ -12,6 +12,7 @@ permalink: /workexperience.html
 * Lead inventory failure classification proof of concept
 * Built machine learning prototypes and deployed model to server
 * Worked with team members to meet strict deadlines and gain executive buy-in of data science solutions                                                                                                                              
+
 ## IT Intern, GEODIS
 
 * Worked with stakeholders to determine data science use cases beneficial to business processes and provided critical insights on current data science trends in 3PL
