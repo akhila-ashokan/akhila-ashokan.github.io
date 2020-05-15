@@ -10,7 +10,7 @@ description: "My professional website"                  # used by search engines
 
 # Header and footer text
 header_text: Welcome to my professional webpage!  # Change Blog header text
-header_feature_image: assets/img/pexels/sunflower.jpg
+header_feature_image: assets/img/pexels/desk-messy.jpeg
 
 # theme: jekyll-theme-cayman
 remote_theme: sylhare/Type-on-Strap 
