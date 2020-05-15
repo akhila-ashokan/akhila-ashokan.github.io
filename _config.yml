@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "https://akhila-ashokan.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
