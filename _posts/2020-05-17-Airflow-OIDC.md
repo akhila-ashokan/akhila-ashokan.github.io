@@ -110,14 +110,14 @@ OIDC_ID_TOKEN_COOKIE_SECURE = False # should be set to True in production enviro
 
 
 ## Helpful Resources 
-(https://gist.github.com/thomasdarimont/145dc9aa857b831ff2eff221b79d179a)
+<https://gist.github.com/thomasdarimont/145dc9aa857b831ff2eff221b79d179a>
 <!--more-->
-(https://stackoverflow.com/questions/29046866/basic-flask-openid-connect-example)
+<https://stackoverflow.com/questions/29046866/basic-flask-openid-connect-example>
 <!--more-->
-(https://stackoverflow.com/questions/53477760/flask-oidc-with-keycloak-oidc-callback-default-callback-not-working)
+<https://stackoverflow.com/questions/53477760/flask-oidc-with-keycloak-oidc-callback-default-callback-not-working>
 <!--more-->
-(https://stackoverflow.com/questions/40663585/flask-oidc-redirect-uri-value-being-overwritten-somewhere)
+<https://stackoverflow.com/questions/40663585/flask-oidc-redirect-uri-value-being-overwritten-somewhere>
 <!--more-->
-(https://github.com/ministryofjustice/fab-oidc/issues/5)
+<https://github.com/ministryofjustice/fab-oidc/issues/5>
 
 
