@@ -4,7 +4,7 @@ url: "https://akhila-ashokan.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Akhila Ashokan                                   # site's title
-description: "My professional website"                  # used by search engines
+# description: "My professional website"                  # used by search engines
 # avatar: assets/img/triangle.png                       # Empty for no avatar in navbar
 # favicon: assets/favicon.ico                           # Icon displayed in the tab
 
@@ -39,15 +39,15 @@ collections:
     permalink: /:collection/:name
     
     
-# BUILD SETTINGS
-markdown: kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*",
-          "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
+# # BUILD SETTINGS
+# markdown: kramdown
+# highlighter: rouge
+# sass:
+  # sass_dir: _sass
+  # style: :compressed
+# plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+# exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*",
+          # "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js"]
 
 # theme: jekyll-theme-cayman
 remote_theme: sylhare/Type-on-Strap 
