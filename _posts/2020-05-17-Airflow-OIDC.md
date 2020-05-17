@@ -7,14 +7,19 @@ author: Akhila
 excerpt_separator: <!--more-->
 ---
 
+# In this post, we will go through how to configure keycloak authentication on Airflow
+
 Airflow comes with many authentication options. I thought I would document the steps I took to configure a custom provider, Keycloak, for Airflow authentication. 
 This tutorial assumes you have Airflow configured on your system and know client credentials for Keycloak authentication. 
+
+<!--more-->
 
 * Set `rbac = True` in Airflow's config file (`airflow.cfg`)
 
 This will be enable the Flask-Appbuilder UI (FAB) that Airflow uses for role-based access control (rbac) features. 
 
 <!--more-->
+
 * Restart the webserver through the CLI
 
 `airflow webserver`
