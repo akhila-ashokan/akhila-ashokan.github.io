@@ -3,7 +3,7 @@ layout: post
 title: Data Mining Project    
 feature-img: "assets/img/portfolio/mining.png"
 img: "assets/img/portfolio/mining.png"
-date: 
+date: May 2018
 ---
 
 
